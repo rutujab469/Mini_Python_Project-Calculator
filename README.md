@@ -1,4 +1,4 @@
-# Mini_Python_Project-Calculator
+
 # Mini Python Project - Calculator 🧮
 
 A simple calculator project built using **Python**. This project performs basic arithmetic operations by taking input from the user.
